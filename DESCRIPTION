@@ -6,10 +6,10 @@ Author: c(
     person("Luz", "Rosado", email="alexjrosado@live.com", role = c("aut", "cre"))
     )
 Maintainer: Luz Rosado <alexjrosado@uchicago.edu>
-Description: Package created to store shapfiles for use by an RShiny app that
-display's crime data in the CPD's own patrol boundaries. Shapefiles
-included are CPD dispatch zones, CPD patrol beats, CPD patrol districts, and
-census tracts. 
+Description: Package created to store shapfiles for use by an RShiny app that 
+ display's crime data in the CPD's own patrol boundaries. Shapefiles
+ included are CPD dispatch zones, CPD patrol beats, CPD patrol districts, and
+ census tracts. 
 Depends:
     R (>= 3.1)
 License: MIT + file LICENSE
