@@ -13,5 +13,5 @@ Depends:
     R (>= 3.1)
 License: MIT + file LICENSE
 Encoding: UTF-8
-LazyData: true
+LazyData: TRUE
 URL: https://github.com/jarosado99/CPDMaps.git
