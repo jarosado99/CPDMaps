@@ -1,0 +1,17 @@
+Package: CPDMaps
+Type: Package
+Title: Data package of shapfiles of CPD units of patrol
+Version: 0.1.0
+Author: person("Luz", "Rosado", email="alexjrosado@uchicago.edu", 
+role = c("aut", "cre"))
+Maintainer: Luz Rosado <alexjrosado@uchicago.edu>
+Description: Package created to store shapfiles for use by an RShiny app that
+display's crime data in the CPD's own patrol boundaries. Shapefiles
+included are CPD dispatch zones, CPD patrol beats, CPD patrol districts, and
+census tracts. 
+Depends:
+    R (>= 3.1)
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+URL: https://github.com/jarosado99/CPDMaps.git
