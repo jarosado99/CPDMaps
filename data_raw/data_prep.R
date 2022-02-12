@@ -1,10 +1,10 @@
 library(sf)
 library(tidyverse)
 library(devtools)
-CPD_Beats <- st_transform(st_read("CPDBeats.shp"), crs = st_crs(6454))
-CPD_Zones <- st_transform(st_read("CPDZones.shp"), crs = st_crs(6454))
-CPD_Districts <- st_transform(st_read("CPDDistricts.shp"), crs = st_crs(6454))
-Census_Tracts <- st_transform(st_read("CensusTracts.shp"), crs = st_crs(6454))
+CPD_Beats <- st_read("CPDBeats.shp")
+CPD_Zones <- st_read("CPDZones.shp")
+CPD_Districts <- st_read("CPDDistricts.shp")
+Census_Tracts <- st_read("CensusTracts.shp")
 
 
 use_data(CPD_Beats, overwrite = TRUE)

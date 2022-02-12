@@ -3,7 +3,7 @@ Type: Package
 Title: Data package of shapfiles of CPD units of patrol
 Version: 0.1.0
 Author: c(
-    person("Luz", "Rosado", email="alexjrosado@live.com", role = c("aut", "cre"))
+    person("Luz", "Rosado", email="alexjrosado@live.com", role = c("aut", "cre","cph"))
     )
 Maintainer: Luz Rosado <alexjrosado@uchicago.edu>
 Description: Package created to store shapfiles for use by an RShiny app that 
