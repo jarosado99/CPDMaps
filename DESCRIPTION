@@ -16,3 +16,4 @@ License: MIT + file LICENSE
 Encoding: UTF-8
 LazyData: TRUE
 URL: https://github.com/jarosado99/CPDMaps.git
+RoxygenNote: 7.1.2
